@@ -1,63 +1,67 @@
 ![Skyla Logo](https://via.placeholder.com/800x200?text=Skyla+Framework)
 
-<h1 align="center">⚡ Skyla Framework ⚡</h1>
+<h1 align="center">🔒 Skyla Framework</h1>
 
 <p align="center">
+  <a href="https://skyla.rf.gd"><img src="https://img.shields.io/badge/Website-skyla.rf.gd-blue?style=flat-square" alt="Website"></a>
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Security%20AI-Advanced-red?style=flat-square" alt="Security AI">
-  <img src="https://img.shields.io/badge/Exploitation%20-%20Autonomous-blue?style=flat-square" alt="Exploitation AI">
-  <img src="https://img.shields.io/badge/Developer-Atom-orange?style=flat-square" alt="Developer">
+  <img src="https://img.shields.io/badge/Security%20AI-Enterprise--Grade-red?style=flat-square" alt="Security AI">
+  <img src="https://img.shields.io/badge/Exploitation%20Automation-Autonomous-blue?style=flat-square" alt="Exploitation AI">
+  <img src="https://img.shields.io/badge/Developer-Atom-gray?style=flat-square" alt="Developer">
 </p>
 
 ---
 
-## 🛡️ What is Skyla?
-Skyla is an advanced cybersecurity AI framework designed to surpass human experts in vulnerability detection and autonomous exploitation. It integrates multiple AI models, CVE databases, and exploit repositories, offering an intelligent, precise, and efficient approach to cybersecurity analysis.
+## 🛡 Overview
+**Skyla** is a next-generation cybersecurity AI framework engineered for **precision, automation, and intelligence**. Designed to surpass human expertise, Skyla identifies, analyzes, and exploits vulnerabilities with an **unmatched level of accuracy and efficiency**. 
 
 ---
 
-## 🌟 Key Features
+## ⚙️ Core Capabilities
 
-### 🔍 **Zero-Day Detection**
-Skyla identifies and analyzes previously unknown vulnerabilities with an unparalleled detection rate of **97-100% accuracy**, minimizing false positives and maximizing security insights.
+### 🧠 **AI-Driven Zero-Day Vulnerability Detection**
+- Identifies **unknown** security flaws with **97-100% accuracy**.
+- Reduces false positives through **adaptive intelligence**.
 
-### 🤖 **AUTOPWN System**
-A fully autonomous exploitation engine that:
-- Detects vulnerabilities in real time.
-- Conceptualizes and generates exploit logic.
-- Converts exploits into executable payloads.
-- Executes attacks in controlled environments for validation.
+### 🚀 **Autonomous Exploitation (AUTOPWN System)**
+- Detects vulnerabilities in real-time.
+- Develops exploit logic dynamically.
+- Generates and executes **fully operational payloads**.
 
-### 📊 **Multi-Layered AI Architecture**
-Integrates multiple deep learning and heuristic-based models to analyze security threats beyond traditional scanning methods.
+### 🔍 **Advanced Attack Vector Analysis**
+- **Predictive risk assessment** using AI-driven heuristics.
+- **Dynamic categorization** of exploitability potential.
 
-### 📡 **CVE & Exploit Database Integration**
-Seamlessly connects to:
-- 🗂️ **NVD (National Vulnerability Database)**
-- 🔍 **CVE Details**
-- 🛠️ **Exploit-DB & PacketStorm Security**
+### 📡 **Live Threat Intelligence Integration**
+- Seamlessly connects to:
+  - 🗂 **NVD (National Vulnerability Database)**
+  - 🔎 **CVE Details**
+  - 🛠 **Exploit-DB & PacketStorm Security**
 
-### 🛠 **Dynamic Attack Vector Analysis**
-Understands, categorizes, and predicts potential attack paths using behavioral analysis and AI-driven risk assessment.
-
-### 🧠 **Adaptive Learning**
-Skyla continuously evolves, learning from emerging threats and updating its knowledge base for enhanced cybersecurity resilience.
+### 🔄 **Continuous AI Learning**
+- Evolves with **emerging threats**, adapting in real-time.
+- Enhances detection logic through **automated self-improvement**.
 
 ---
 
-## 🚀 Why Skyla?
-✔ **Precision-Driven** – Minimizes false positives, maximizing detection efficiency.
-✔ **Automated Intelligence** – No manual intervention needed; Skyla handles everything autonomously.
-✔ **Red Team & Blue Team Friendly** – Beneficial for both attackers and defenders in cybersecurity operations.
-✔ **Futuristic & Scalable** – Designed for continuous evolution and adaptation in the cybersecurity landscape.
+## 🎯 Why Skyla?
+✅ **Enterprise-Grade Security Intelligence** – Designed for professionals who require cutting-edge security solutions.
+✅ **Automated Threat Mitigation** – Hands-free vulnerability detection and exploitation.
+✅ **Red & Blue Team Ready** – A critical asset for **offensive** and **defensive** cybersecurity strategies.
+✅ **Scalable & Future-Proof** – Built for **continuous adaptation** in an evolving cyber landscape.
 
 ---
 
-### 🔥 Developed by **Atom** 🔥
-Skyla is a vision brought to life by **Atom**, an expert in cybersecurity, exploitation, and AI-driven security research.
-
-> _"Security is not just about defense; it's about understanding the attacker's mind."_
+## 📌 Official Website
+🌐 **Visit:** [skyla.rf.gd](https://skyla.rf.gd)
 
 ---
 
-<p align="center">⚔️ **Skyla – Redefining Cybersecurity Intelligence** ⚔️</p>
+### 🏆 Developed by **Atom**
+**Skyla** is crafted by **Atom**, a leading cybersecurity expert specializing in AI-driven security research and autonomous exploitation.
+
+> _"Understanding the attack is the key to mastering defense."_
+
+---
+
+<p align="center">🔰 **Skyla – The Future of Cybersecurity Intelligence** 🔰</p>
