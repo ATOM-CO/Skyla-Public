@@ -2,11 +2,10 @@
   <video src="Start.mp4" width="500" controls>
     Your browser does not support the video tag.
   </video>
-  
+
   <h1>SKYLA FRAMEWORK</h1>
   <p><i>The Next Generation of AI-Powered Cybersecurity Intelligence</i></p>
 </div>
-
     <a href="https://skyla.rf.gd" target="_blank">
       <img src="https://img.shields.io/badge/Website-Skyla.rf.gd-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website">
     </a>
