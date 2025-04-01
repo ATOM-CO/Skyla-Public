@@ -30,40 +30,6 @@
   <b>🔒 ENTERPRISE-GRADE SECURITY INTELLIGENCE POWERED BY ADVANCED AI 🔒</b>
 </p>
 
----
-
-## 📋 Table of Contents
-- [🌟 Overview](#-overview)
-- [🔥 Key Features](#-key-features)
-  - [Advanced Threat Detection](#-advanced-threat-detection)
-  - [Automated Exploitation](#️-automated-exploitation-autopwn-system)
-  - [Security Intelligence & Forensics](#-security-intelligence--forensics)
-  - [And More...](#-ai-self-learning--adaptation)
-- [🏛️ System Architecture](#️-system-architecture)
-- [📊 Security Performance Metrics](#-security-performance-metrics)
-- [🔍 Technical Specifications](#-technical-specifications)
-- [🎯 Why Choose Skyla](#-why-choose-skyla)
-- [💻 Installation Guide](#-installation-guide)
-  - [Prerequisites](#prerequisites)
-  - [Deployment Options](#deployment-options)
-  - [Quick Start](#quick-start)
-- [🚀 Usage Examples](#-usage-examples)
-- [📘 API Documentation](#-api-documentation)
-- [🔧 Troubleshooting](#-troubleshooting)
-- [📈 Performance Benchmarks](#-performance-benchmarks)
-- [🏆 Case Studies & Success Stories](#-case-studies--success-stories)
-- [🔄 Comparison with Other Tools](#-comparison-with-other-tools)
-- [🛡️ Security Compliance](#️-security-compliance)
-- [🏗 Future Roadmap](#-future-roadmap)
-- [👥 Team & Contributors](#-team--contributors)
-- [📌 Official Website](#-official-website)
-- [❓ Frequently Asked Questions](#-frequently-asked-questions)
-- [📜 License](#-license)
-- [🌍 Community & Contributions](#-community--contributions)
-- [📞 Contact](#-contact)
-
----
-
 ## 🌟 Overview
 
 <div align="center">
