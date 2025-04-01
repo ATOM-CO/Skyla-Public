@@ -33,7 +33,6 @@
 ## 🌟 Overview
 
 <div align="center">
-   alt="Skyla Framework Overview" width="800">
 </div>
 
 Skyla is a sophisticated **AI-driven cybersecurity framework** engineered for **autonomous vulnerability detection, exploitation, and threat intelligence analysis**. Designed for both **offensive and defensive security operations**, Skyla empowers professionals with advanced AI capabilities to proactively identify, assess, and neutralize security threats with **unparalleled efficiency and precision**.
