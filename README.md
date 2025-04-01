@@ -1,106 +1,92 @@
-<div align="center">
+<p align="center">
   <img src="Logo.png" alt="Skyla Logo" width="200">
-</div>
+</p>
 
-<div align="center">
-  <h1>SKYLA FRAMEWORK</h1>
-</div>
+# SKYLA FRAMEWORK
 
-<div align="center">
+<p align="center">
   <a href="https://skyla.rf.gd" target="_blank">
-    <img src="https://img.shields.io/badge/Website-skyla.rf.gd-blue?style=for-the-badge&logo=chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-Skyla.rf.gd-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website">
   </a>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Security%20AI-Enterprise%20Grade-red?style=for-the-badge&logo=shield" alt="Security AI">
-  <img src="https://img.shields.io/badge/Exploitation-Autonomous-blue?style=for-the-badge&logo=terminal&logoColor=white" alt="Exploitation AI">
-  <img src="https://img.shields.io/badge/Developer-Atom-lightgray?style=for-the-badge&logo=code" alt="Developer">
-</div>
+  <img src="https://img.shields.io/badge/Status-Active-008000?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Security%20AI-Enterprise%20Grade-B22222?style=for-the-badge&logo=ShieldCheck" alt="Security AI">
+  <img src="https://img.shields.io/badge/Exploitation-Autonomous-0055A4?style=for-the-badge&logo=Terminal&logoColor=white" alt="Exploitation AI">
+  <img src="https://img.shields.io/badge/Developer-Atom-2F4F4F?style=for-the-badge&logo=Code" alt="Developer">
+</p>
 
-<hr>
+---
 
 ## Overview
+Skyla is a sophisticated **AI-driven cybersecurity framework** engineered for **autonomous vulnerability detection, exploitation, and threat intelligence analysis**. Designed for both **offensive and defensive security operations**, Skyla empowers professionals with advanced AI capabilities to proactively identify, assess, and neutralize security threats with **unparalleled efficiency and precision**.
 
-Skyla is an advanced, AI-driven cybersecurity framework designed for autonomous vulnerability assessment, exploitation, and comprehensive security intelligence analysis. It empowers both offensive and defensive security operations, ensuring rapid identification and neutralization of threats with unparalleled precision.
-
-<hr>
+---
 
 ## Core Capabilities
 
 ### Zero-Day Vulnerability Detection
+- Utilizes **deep learning and advanced heuristics** to identify **previously unknown security flaws**.
+- Maintains an **ultra-low false positive rate**, ensuring **97-100% accuracy**.
+- Conducts **real-time vulnerability assessments** across multiple platforms.
 
--   Leverages AI for the detection of previously unknown security vulnerabilities.
--   Employs sophisticated heuristics and deep learning models.
--   Achieves an exceptionally low false positive rate with a detection accuracy ranging from 97% to 100%.
-
-### AUTOPWN System - Autonomous Exploitation
-
--   Generates AI-driven attack logic tailored for real-world exploit scenarios.
--   Automates dynamic payload creation and execution.
--   Provides real-time success verification and risk assessment.
+### AUTOPWN System – Autonomous Exploitation
+- Generates **intelligent attack logic** for real-world exploit scenarios.
+- Performs **dynamic payload creation and automated execution**.
+- Implements **real-time validation and risk assessment** post-exploitation.
 
 ### Intelligent Attack Vector Analysis
-
--   Predicts and maps potential attack surfaces with high accuracy.
--   Dynamically categorizes and prioritizes risks based on severity.
--   Identifies complex, multi-stage attack chains.
+- Predicts and **maps potential attack surfaces dynamically**.
+- Categorizes **high-risk vulnerabilities** for strategic mitigation.
+- Detects **multi-stage attack chains** to expose intricate exploitation pathways.
 
 ### Application Security & Source Code Intelligence
-
--   Performs static and dynamic AI-powered code analysis.
--   Detects concealed security vulnerabilities within software architectures.
--   Supports a wide array of programming languages and frameworks.
+- Conducts **static and dynamic AI-driven code analysis**.
+- Detects **hidden security flaws and architectural vulnerabilities**.
+- Supports multiple programming languages and frameworks for **comprehensive security auditing**.
 
 ### Live Threat Intelligence & External Database Integration
-
--   Seamless API integration with leading global cybersecurity databases:
-    -   **NVD (National Vulnerability Database)**
-    -   **CVE Details & Exploit-DB**
-    -   **PacketStorm Security & Offensive Security**
+- Seamlessly integrates with industry-leading cybersecurity databases:
+  - **National Vulnerability Database (NVD)**
+  - **CVE Details & Exploit-DB**
+  - **PacketStorm Security & Offensive Security**
+- Enables real-time **threat intelligence gathering and correlation**.
 
 ### Continuous AI Evolution
+- Adapts to **emerging security threats** through **self-improving models**.
+- Utilizes **machine learning-enhanced risk assessments**.
+- Requires **zero manual intervention**, ensuring full automation.
 
--   Utilizes self-improving models to adapt to emerging threats.
--   Enhances risk assessments through machine learning.
--   Provides full automation, minimizing manual intervention.
-
-<hr>
+---
 
 ## External Tools & API Support
+- **Seamless integration** with **penetration testing frameworks and security intelligence APIs**.
+- Supports **custom AI modules** for extended analysis and automation.
+- Implements **multi-layered encryption** and **network-based threat detection**.
 
--   Integrates seamlessly with industry-standard penetration testing tools and threat intelligence APIs.
--   Supports custom AI modules for advanced analysis and security auditing.
--   Offers multi-layered encryption and network-based threat detection capabilities.
+---
 
-<hr>
+## Why Choose Skyla?
+- **Enterprise-Grade AI Security** – Built for **modern security professionals and enterprises**.
+- **Autonomous Exploitation & Threat Analysis** – Reduces reliance on **manual attack surface research**.
+- **Real-Time AI-Driven Security** – **Continuously adapts** to emerging threats.
+- **Comprehensive Database & API Integrations** – Ensures **access to the latest security intelligence**.
+- **Optimized for Red & Blue Teams** – Designed for both **offensive and defensive security strategies**.
 
-## Why Skyla?
-
--   **Enterprise-Grade AI Security:** Designed for modern security professionals and enterprise environments.
--   **Autonomous Exploitation & Threat Analysis:** Streamlines attack surface research and exploitation.
--   **Real-Time AI-Driven Security:** Adapts dynamically to evolving threat landscapes.
--   **Seamless Database & API Integrations:** Provides up-to-the-minute security intelligence.
--   **Optimized for Red & Blue Team Operations:** Facilitates effective offensive and defensive security strategies.
-
-<hr>
+---
 
 ## Official Website
-
-<div align="center">
+<p align="center">
   <a href="https://skyla.rf.gd" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Skyla-skyla.rf.gd-blue?style=for-the-badge&logo=chrome&logoColor=white" alt="Skyla Website">
+    <img src="https://img.shields.io/badge/Visit%20Skyla-Skyla.rf.gd-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Skyla Website">
   </a>
-</div>
+</p>
 
-<hr>
+---
 
 ### Developed by Atom
+Skyla is a pioneering cybersecurity framework developed by **Atom**, a **cybersecurity expert specializing in AI-driven security automation, intelligent exploitation, and advanced cyber defense methodologies**.
 
-Skyla is the innovative work of Atom, a cybersecurity expert specializing in AI-driven security, automated exploitation, and advanced cyber defense methodologies.
+> "Security isn’t just about defense—it’s about **understanding, anticipating, and controlling the attack**."
 
-> "Security is not merely about defense; it is about understanding and controlling the attack vector."
+---
 
-<hr>
-
-<div align="center">
-  <h2>SKYLA - The Future of Cybersecurity Intelligence</h2>
-</div>
+## SKYLA – THE FUTURE OF CYBERSECURITY INTELLIGENCE
